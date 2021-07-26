@@ -1,0 +1,25 @@
+body{
+    padding: 10px;
+}
+table,td,tr,th{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+}
+.btn{
+    margin: 5px;
+}
+label{
+    font-weight: bold;
+    color:white
+}
+form{
+    padding: 20px;
+}
+.card{
+  background-color: orange
+}
+.btn{
+  width: 30%;
+  margin: auto;
+}
